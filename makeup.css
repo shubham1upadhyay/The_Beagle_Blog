@@ -1,0 +1,42 @@
+.head-box{
+    border: 1px black solid;
+    padding:10px;
+}
+.parent{
+    padding:10px;
+}
+.hr1{
+    margin-top: -20px;
+    width: 250px;
+    float: left;
+    border-color: black;
+}
+.hr2{
+    margin-top: -20px;
+    width: 110px;
+    float: left;
+    border-color: black;
+}
+.hr3{
+    margin-top: -20px;
+    width: 90px;
+    float: left;
+    border-color: black;
+}
+p{
+    font-size: large;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+li{
+    font-size: large;
+}
+a{
+    font-weight: bold;
+    color: black;
+}
+.mt-10{
+    margin-top:10px;
+}
